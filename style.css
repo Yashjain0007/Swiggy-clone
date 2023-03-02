@@ -208,9 +208,9 @@
 }
 footer {
   margin-top: 0;
-  background: black;
 }
 .footer {
+  background: black;
   display: grid;
   width: 100%;
   justify-content: center;
@@ -329,4 +329,7 @@ footer {
     justify-content: center;
     gap: 20px;
   }
+}
+.green {
+  background: #48c479;
 }
